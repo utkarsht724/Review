@@ -10,3 +10,6 @@ def SnakeAndLadder():
     Player = {'P1': 0, 'P2': 0}
     DiceCount = 0
     Position = 0
+
+  dice = random.randint(1, 6)
+  print("Dice Number:", dice)
