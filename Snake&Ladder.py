@@ -15,6 +15,8 @@ def SnakeAndLadder():
     print("Dice Number:", dice)
 
     Position = int(Player['P1']) + dice
+    
+    while (Player['P1'] != 100 and Player['P2'] != 100)
 
     if Position in Snake:
         print("Snake Bite:")
@@ -55,6 +57,8 @@ def SnakeAndLadder():
     P1 = True
     P2 = False
     print("Player 2: Your Position Is " + str(Player['P2']))
+
+    while (Player['P1'] != 100 and Player['P2'] != 100)
 
 
 
