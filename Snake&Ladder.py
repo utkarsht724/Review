@@ -58,7 +58,7 @@ def SnakeAndLadder():
     P2 = False
     print("Player 2: Your Position Is " + str(Player['P2']))
 
-    while (Player['P1'] != 100 and Player['P2'] != 100)
+    print("No of time dice use for win :" + str(DiceCount))
 
 
 
